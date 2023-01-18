@@ -1,4 +1,4 @@
-# AUTOSCRIPT BY VPN PAKYAVPN
+# AUTOSCRIPT BY VPN ALPHAVPN
 
  <h2 align="center">AutoScript Install VPN By Pakyavpn <img src="https://img.shields.io/badge/Version-2-blue.svg"></h2>
 
@@ -22,7 +22,7 @@ src="https://img.shields.io/badge/Service-Xray-success.svg">  <img src= "https:/
 
 ## Credit :
 
-*   Script by    t.me/anakjati567
+*   Script by ALPHAVPN
 ```
 
 ### Fix Wireguard Not Running
